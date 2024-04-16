@@ -2,6 +2,11 @@
 
 1ère évaluation formative sur GIT et GITHUB (avec Github Desktop)
 
+### Pour vous aider 
+
+- [Créer un nouveau dépôt sur GitHub](https://docs.github.com/fr/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [Cloner un dépôt avec GitHub Desktop](https://docs.github.com/fr/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)
+
 
 ## Création d'un dépôt sur [GitHub](https://github.com) 
 
